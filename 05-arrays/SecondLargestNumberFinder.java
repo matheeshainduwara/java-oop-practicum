@@ -24,7 +24,7 @@ public class SecondLargestNumberFinder {
                 secondLargest=num[i];
             }
         }
-        System.out.println(largest);
-        System.out.println(secondLargest);
+        System.out.println("Largest Number: "+largest);
+        System.out.println("Second Largest Number: "+secondLargest);
     }
 }
